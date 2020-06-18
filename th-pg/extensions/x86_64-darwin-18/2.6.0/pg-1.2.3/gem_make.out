@@ -1,0 +1,8 @@
+current directory: /Users/nifan/Desktop/morney-rails-1/th-pg/gems/pg-1.2.3/ext
+/Users/nifan/.rvm/rubies/ruby-2.6.4/bin/ruby -I /Users/nifan/.rvm/rubies/ruby-2.6.4/lib/ruby/site_ruby/2.6.0 -r ./siteconf20200617-72480-1mvfem4.rb extconf.rb
+Building has failed. See above output for more information on the failure.
+To see why this extension failed to compile, please check the mkmf.log which can be found here:
+
+  /Users/nifan/Desktop/morney-rails-1/th-pg/extensions/x86_64-darwin-18/2.6.0/pg-1.2.3/mkmf.log
+
+extconf failed, exit code 1
